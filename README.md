@@ -9,7 +9,7 @@ Face Detection Using Computer Vision (CV) through Realtime Face Detection and Fa
 - now you have to type pip install **<code>pip install opencv-python</code>** and hit enter if they ask [Y/n] then press "y" on your system and hit enter again- for Main modules package
 - [optional command]for Full package type **<code>pip install opencv-contrib-python</code>** and hit enter
 - now after installing the needed libraries.
-- type <code>jupyter notebook</code>  
+- type <code>**jupyter notebook**</code>  
 - now opening the jupyter notebook and showing many files in user directory.
 - create new option from right side above option.
 - and type <code>pwd</code> for checking where jupyter notebook is installed.
