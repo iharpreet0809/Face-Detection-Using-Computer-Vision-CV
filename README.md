@@ -18,3 +18,8 @@ Face Detection Using Computer Vision (CV) through Realtime Face Detection and Fa
 - Be happy Project is running.
 
 # Samples Images:
+https://github.com/iharpreet0809/Face-Detection-Using-Computer-Vision-CV/blob/master/Samples/facedetect_with_hello.png
+<BR>
+https://github.com/iharpreet0809/Face-Detection-Using-Computer-Vision-CV/blob/master/Samples/facedetect_with_hello2.png
+<br>
+https://github.com/iharpreet0809/Face-Detection-Using-Computer-Vision-CV/blob/master/Samples/facedetect_with_test1.png
