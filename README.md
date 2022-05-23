@@ -1,5 +1,7 @@
 # Face-Detection-Using-Computer-Vision-CV
-Face Detection Using Computer Vision (CV) through Realtime Face Detection and Face Detection on Image as well
+Face Detection Using Computer Vision (CV) through Realtime Face Detection and Face Detection on Image as well.
+- Using Photo
+- Using webcam Realtime
 
 # How to run the jupyter file
 - First of all you have to install the python in your system.
