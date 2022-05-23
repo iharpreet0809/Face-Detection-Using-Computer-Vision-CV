@@ -16,3 +16,5 @@ Face Detection Using Computer Vision (CV) through Realtime Face Detection and Fa
 - just face detection file is upload there where jupyter noebook is installed. and again for user directory for finding the same jupyter file you want to run.
 - shift + enter the each cell or you can run all cells once.
 - Be happy Project is running.
+
+# Samples Images:
